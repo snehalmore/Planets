@@ -1,1 +1,2 @@
-Mars is red and cold.
+MArs  is red and cold. 
++it's not to far away
